@@ -21,7 +21,7 @@ if (!spaceId || !accessToken) {
 }
 
 module.exports = {
-  pathPrefix: '/gatsby-contentful-starter',
+  pathPrefix: '/jimmi-WD09',
   plugins: [
     'gatsby-transformer-remark',
     'gatsby-plugin-react-helmet',
